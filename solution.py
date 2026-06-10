@@ -2,8 +2,8 @@
 ==============================================================
 Day 10 Lab: Build Your First Automated ETL Pipeline
 ==============================================================
-Student ID: Conglac01
-Name: Conglac01
+Student ID: 2A202600753
+Name: Phạm Văn Công
 
 Nhiem vu:
    1. Extract:   Doc du lieu tu file JSON

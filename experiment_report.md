@@ -1,7 +1,7 @@
 # Experiment Report: Data Quality Impact on AI Agent
 
-**Student ID:** Conglac01
-**Name:** Conglac01
+**Student ID:** 2A202600753
+**Name:** Phạm Văn Công
 **Date:** 2026-06-10
 
 ---
